@@ -1,0 +1,91 @@
+[{
+    "guide_name": "Ashok Kumar",
+    "id_no": 3,
+    "card_status": "Green Card",
+    "mob_no": 8107343515,
+    "postal_code": 305001,
+    "address": "Gram Gnaheda Pushkar,Ajmer",
+    "rating": 3.2,
+    "image": "GuidesPhotos/Ashok_Kumar"
+}, {
+    "guide_name": "Arvind Singh",
+    "id_no": 3,
+    "card_status": "Green Card",
+    "mob_no": 9413037040,
+    "postal_code": 341023,
+    "address": "Agunta Teh,Nagaur",
+    "rating": 4.0,
+    "image": "GuidesPhotos/Arvind_Singh"
+}, {
+    "guide_name": "Vikram Singh",
+    "id_no": 4,
+    "card_status": "Green Card",
+    "mob_no": 8696109965,
+    "postal_code": 341001,
+    "address": "Didiwana,Nagaur",
+    "rating": 4.7,
+    "image": "GuidesPhotos/Vikram_Singh"
+}, {
+    "guide_name": "Lokendra Singh",
+    "id_no": 8,
+    "card_status": "Green Card",
+    "mob_no": 9610439770,
+    "postal_code": 341022,
+    "address": "Kumchan Kila Prisar,Kumchan City,Nagaur",
+    "rating": 3.9,
+    "image": "GuidesPhotos/Lokendra_Singh"
+}, {
+    "guide_name": "Anurag Prashar",
+    "id_no": 9,
+    "card_status": "Green Card",
+    "mob_no": 9414669190,
+    "postal_code": 305022,
+    "address": "Radha Sadan,Pushkar,Ajmer",
+    "rating": 4.0,
+    "image": "GuidesPhotos/Anurag_Prashar"
+}, {
+    "guide_name": "Surjit Kumar",
+    "id_no": 26,
+    "card_status": "Green Card",
+    "mob_no": 7665287377,
+    "postal_code": 305022,
+    "address": "Charbhuja Mandir,Pushkar,Ajmer",
+    "rating": 3.6,
+    "image": "GuidesPhotos/Surjit_Kumar"
+}, {
+    "guide_name": "Dilip Kumar Sharma",
+    "id_no": 34,
+    "card_status": "Green Card",
+    "mob_no": 9814670363,
+    "postal_code": 341503,
+    "address": "Sanju, Rajasthan, 24, Nagaur",
+    "rating": 4.2,
+    "image": "GuidesPhotos/Dilip_Kumar_Sharma"
+}, {
+    "guide_name": "Ayush Singh",
+    "id_no": 35,
+    "card_status": "Green Card",
+    "mob_no": 1800111363,
+    "postal_code": 341503,
+    "address": "Sanju, Rajasthan, 24, Nagaur",
+    "rating": 3.2,
+    "image": "GuidesPhotos/Ayush_Singh"
+}, {
+    "guide_name": "Yash Raj",
+    "id_no": 37,
+    "card_status": "Green Card",
+    "mob_no": 9876496986,
+    "postal_code": 341024,
+    "address": "Bhaola, Rajasthan,24\tNagaur",
+    "rating": 4.7,
+    "image": "GuidesPhotos/Yash_Raj"
+}, {
+    "guide_name": "Souvick Mondal",
+    "id_no": 40,
+    "card_status": "Green Card",
+    "mob_no": 7529075522,
+    "postal_code": 341024,
+    "address": "Bhaola, Rajasthan, 24\tNagaur",
+    "rating": 4.1,
+    "image": "GuidesPhotos/Souvick_Mondal"
+}]
